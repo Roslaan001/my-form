@@ -1,0 +1,25 @@
+* {
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* My Link Tag */
+a {
+    color: red;
+}
+
+#my {
+    color: rgba(0, 0, 200, 1);
+}
+
+img {
+    opacity: 0.4;
+}
+
+h2 {
+    border: 2px solid red;
+    border-radius: 5px;
+    margin: 20px 50px;
+}
